@@ -1,4 +1,11 @@
-### Hi there 👋
+## 👋Hey folks,
+
+### 🧑🏼‍💻About me
+  ✏️ I am a full stack web developer with having in-depth knowledge of react.js, node.js, mongoose etc. I know how to implement this skills to real-world projects. And I also have pleasing communicating skill for best team work.
+  
+
+### 🌐Languages, frameworks and tools I use
+  ✏️ Javascript, C++, React, Nodejs, MongoDB, MySQL, Git, Lnux, Redux, Firebase, Python, Solidity, AWS
 
 <!--
 **roniskywalker/roniskywalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
