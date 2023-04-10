@@ -5,7 +5,7 @@
   
 
 ### 🌐Languages, frameworks and tools I use
-  ✏️ Javascript, C++, React, Nodejs, MongoDB, MySQL, Git, Lnux, Redux, Firebase, Python, Solidity, AWS
+  ✏️ Javascript, C++, React, Nodejs, MongoDB, MySQL, Git, Linux, JQuery, Redux, Firebase, Tailwind CSS, Rest API, Python, Solidity, AWS
 
 <!--
 **roniskywalker/roniskywalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
