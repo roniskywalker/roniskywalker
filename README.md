@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/97012708/230943138-30b9cc21-8345-49e8-9f42-3723bb76644c.gif)
+![MasterHead](https://user-images.githubusercontent.com/97012708/230944008-d72ff555-4249-48b6-b72e-d10f0746a8fd.gif)
 
 ## 👋Hey folks,
 
