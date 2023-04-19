@@ -3,11 +3,11 @@
 ## <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> Hey folks,
 
 ### 🧑🏼‍💻About me
-  ✏️ I am a full stack web developer with having in-depth knowledge of react.js, node.js, mongoose etc. I know how to implement this skills to real-world projects. And I also have pleasing communicating skill for best team work.
+  ✏️ I am a full-stack web developer with in-depth knowledge of React.js, Node.js, Express.js, MongoDB, Linux, etc, and am currently exploring Ethereum & Blockchain with Solidity. I know how to implement these skills in real-world projects. And I also have excellent communication skills for teamwork.
   
 
 ### 🌐Languages, frameworks and tools I use
-  ✏️ Javascript, C++, Reactjs, Node.js, MongoDB, MySQL, Git, Linux, JQuery, Expressjs, Redux, Firebase, Tailwind CSS, Rest API, Python, Solidity, AWS
+  ✏️ Javascript, C++, Python, Reactjs, Node.js, Expressjs, MongoDB, MySQL, Git, Linux, Tailwind CSS, JQuery, Redux, Firebase, Rest API, Solidity, AWS
 
 <!--
 **roniskywalker/roniskywalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
