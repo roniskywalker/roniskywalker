@@ -3,7 +3,8 @@
 ## <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> Hey folks,
 
 ### 🧑🏼‍💻 About me
-  ✏️ I am a **Full-Stack Web Developer** with in-depth knowledge of React.js, Node.js, Express.js, MongoDB, Linux, etc, and am currently exploring Ethereum & Blockchain with Solidity. I know how to implement these skills in real-world projects. And I also have excellent communication skills for teamwork.
+  ✏️ As a **full-stack developer**, my expertise lies in building complex and dynamic web applications using cutting-edge technologies like the MERN stack. Now, I am currently exploring Ethereum & Blockchain with Solidity. And I also have excellent communication skills for teamwork.
+
   
 
 ### 🤹‍♀️ Languages, frameworks and tools I use
