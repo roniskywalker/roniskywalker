@@ -1,11 +1,12 @@
-![MasterHead](https://user-images.githubusercontent.com/97012708/233769558-710dd1c2-75c1-4e35-bf96-7d125a4c25b2.gif)
+## ![MasterHead](https://user-images.githubusercontent.com/97012708/233769558-710dd1c2-75c1-4e35-bf96-7d125a4c25b2.gif)
 
-
-## <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=FAFF00&size=30&center=true&vCenter=true&lines=Hey,+Aliens!;"></p>
+## <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Merriweather&color=FAFF00&size=30&center=true&vCenter=true&lines=Hey,+Aliens!;"></p>
 
 ### 🧑🏼‍💻 About me
-  ✏️ As a **full-stack developer**, my expertise lies in building complex and dynamic web applications using cutting-edge technologies like the MERN stack. Now, I am currently exploring Ethereum & Blockchain with Solidity. And I also have excellent communication skills for teamwork.
-
+  <p>✏️ As a **full-stack developer**, my expertise lies in building complex and dynamic web applications using cutting-edge technologies like the MERN stack.</p>
+  <p>✏️ I am currently exploring Ethereum & Blockchain with Solidity.</p>
+  <p>✏️ For teamwork, I also have excellent communication skills.</p>
+	
 ### 🤹‍♀️ Languages, frameworks and tools I use
   <img align="left" width="35px" style="margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="left" width="35px" style="margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -27,11 +28,10 @@
   <img align="left" width="35px" style="margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
   <img align="left" width="35px" style="margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="left" width="35px" style="margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img align="left" width="29px" src="https://cdn.cdnlogo.com/logos/s/63/stack-overflow.svg">
   <img align="left" width="35px" style="margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="left" width="35px" style="margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> 
   <br>
-
-###
   <p><br></p>
   
 ##
