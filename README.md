@@ -1,4 +1,5 @@
-![MasterHead](https://user-images.githubusercontent.com/97012708/230944008-d72ff555-4249-48b6-b72e-d10f0746a8fd.gif)
+![MasterHead](https://user-images.githubusercontent.com/97012708/233769558-710dd1c2-75c1-4e35-bf96-7d125a4c25b2.gif)
+
 
 ## <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&color=FAFF00&size=30&center=true&vCenter=true&lines=Hey,+Aliens!;"></p>
 
@@ -34,7 +35,6 @@
   <p><br></p>
   
 ##
-<!--   ![GitHub Views](https://komarev.com/ghpvc/?username=roniskywalker) -->
   <p align="center">
 	<img src="https://profile-counter.glitch.me/{roniskywalker}/count.svg" alt="Views Count" width="300px" height="40px" />
 </p>
@@ -42,7 +42,10 @@
 
 <!--
 **roniskywalker/roniskywalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi" align="left"> 
+![GitHub Views](https://komarev.com/ghpvc/?username=roniskywalker)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
