@@ -34,7 +34,10 @@
   <p><br></p>
   
 ##
-  ![GitHub Views](https://komarev.com/ghpvc/?username=roniskywalker)
+<!--   ![GitHub Views](https://komarev.com/ghpvc/?username=roniskywalker) -->
+  <p align="center">
+	<img src="https://profile-counter.glitch.me/{roniskywalker}/count.svg" alt="Views Count" width="300px" height="40px" />
+</p>
       
 
 <!--
