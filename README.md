@@ -1,4 +1,6 @@
-## ![MasterHead](https://user-images.githubusercontent.com/97012708/233769558-710dd1c2-75c1-4e35-bf96-7d125a4c25b2.gif)
+![MasterHead](https://user-images.githubusercontent.com/97012708/233769558-710dd1c2-75c1-4e35-bf96-7d125a4c25b2.gif)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Viga&color=FAFF00&size=27&vCenter=true&lines=Hey,+Aliens!;">
 
@@ -32,9 +34,10 @@
   <img width="29px" src="https://cdn.cdnlogo.com/logos/s/63/stack-overflow.svg">
   <img width="35px" style="margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img width="35px" style="margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> 
-</p>  
-  
-## 
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
+
 <p align="center">
 	<img src="https://profile-counter.glitch.me/{roniskywalker}/count.svg" alt="Views Count" width="300px" height="40px" />
 </p>
