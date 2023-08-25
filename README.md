@@ -6,7 +6,6 @@
 
 ### 🧑🏼‍💻 About me
   <p>✏️ As a full-stack developer, my expertise lies in building complex and dynamic web applications using cutting-edge technologies like the MERN stack.</p>
-  <p>✏️ I am currently exploring Ethereum & Blockchain with Solidity.</p>
   <p>✏️ Through my work experience and education, I have developed strong communication skills.</p>
 	
 ### 🤹‍♀️ Languages, frameworks and tools I use
