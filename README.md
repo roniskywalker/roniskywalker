@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Viga&color=FAFF00&size=27&vCenter=true&lines=Hey,+Aliens!;">
 
 ### 🧑🏼‍💻 About me
-  <p>✏️.</p>
+  <p>✏️As a data engineer, my expertise lies in building complex data pipelines using cutting-edge technologies like Hadoop, Spark, Hive, Kafka, etc. I am currently exploring cloud computing with AWS. I also have excellent communication skills and teamwork skills.</p>
 	
 ### 🤹‍♀️ Languages, frameworks and tools I use
   <p>
